@@ -2,12 +2,12 @@
 layout: cv
 title: Jeremie Poiroux
 ---
-# Isaac Newton
+# Jeremie Poiroux
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="jeremiepoiroux@protonmail.com">jeremiepoiroux@protonmail.com</a>
+| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My Linked In page</a>
 </div>
 
 
