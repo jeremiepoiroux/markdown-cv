@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Jeremie Poiroux
+title: Jérémie Poiroux
 ---
-# Jeremie Poiroux
+# Jérémie Poiroux
 Design - Algorithms - Ethics - Research - Journalism
 
 <div id="webaddress">
@@ -90,6 +90,6 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: March 2017 -->
 
 
