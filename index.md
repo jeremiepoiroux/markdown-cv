@@ -3,20 +3,21 @@ layout: cv
 title: Jeremie Poiroux
 ---
 # Jeremie Poiroux
-I’m a designer who cares about Ethics and Journalism. I’m currently working on research projects about algorithms and information bubbles.
+Design - Algorithms - Ethics - Research - Journalism
 
 <div id="webaddress">
 <a mailto="jeremiepoiroux@protonmail.com">jeremiepoiroux@protonmail.com</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">LinkedIn</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">Twitter</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">Medium</a>
+| <a href="https://www.linkedin.com/in/jeremiepoiroux/">LinkedIn</a>
+| <a href="https://twitter.com/jeremprx">Twitter</a>
+| <a href="https://medium.com/@jeremiepoiroux">Medium</a>
 | <a href="https://github.com/jeremiepoiroux">Github</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+I’m a designer who cares about Ethics and Journalism. 
+I’m currently working on research projects about algorithms and information bubbles and I'm organizing the [EthicsbyDesign event](ethicsbydesign.fr)
 
 ### Specialized in
 
