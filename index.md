@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: JERE Poiroux
+title: Jeremie Poiroux
 ---
 # Jeremie Poiroux
 I’m a designer who cares about Ethics and Journalism. I’m currently working on research projects about algorithms and information bubbles.
