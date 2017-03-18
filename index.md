@@ -3,11 +3,14 @@ layout: cv
 title: Jeremie Poiroux
 ---
 # Jeremie Poiroux
-Physicist, Mathematician, Cambridge professor.
+I’m a designer who cares about Ethics and Journalism. I’m currently working on research projects about algorithms and information bubbles.
 
 <div id="webaddress">
-<a href="jeremiepoiroux@protonmail.com">jeremiepoiroux@protonmail.com</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My Linked In page</a>
+<a mailto="jeremiepoiroux@protonmail.com">jeremiepoiroux@protonmail.com</a>
+| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">LinkedIn</a>
+| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">Twitter</a>
+| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">Medium</a>
+| <a href="https://github.com/jeremiepoiroux">Github</a>
 </div>
 
 
