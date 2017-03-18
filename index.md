@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Jeremie Poiroux
 ---
 # Isaac Newton
 Physicist, Mathematician, Cambridge professor.
