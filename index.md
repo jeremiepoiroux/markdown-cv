@@ -3,7 +3,7 @@ layout: cv
 title: Jérémie Poiroux
 ---
 # Jérémie Poiroux
-Design - Algorithms - Ethics - Research - Journalism
+Design, Research
 
 <div id="webaddress">
 <a mailto="jeremiepoiroux@protonmail.com">jeremiepoiroux@protonmail.com</a>
@@ -16,66 +16,23 @@ Design - Algorithms - Ethics - Research - Journalism
 
 ## Currently
 
-I’m a designer who cares about Ethics and Journalism. 
-I’m currently working on research projects about algorithms and information bubbles and I'm organizing the [EthicsbyDesign event](ethicsbydesign.fr)
+I’m a designer and a intern-researcher who cares about Ethics and Journalism. 
+I’m currently working on research projects about algorithms and information bubbles and I'm organizing the [Ethics by Design event](ethicsbydesign.fr)
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+Design, Research
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Filter bubbles, echo chambers, information bubbles, recommender systems, personalization, fake news, research by design
+
+### Design interests
+
+Co-design, participatory design, ethics by design, social design, design for sustainability, design sprint, design for journalism, design by research
 
 
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
+## Experience & projects
 
 `1600`
 __Royal Mint__, London
@@ -87,6 +44,86 @@ __Royal Mint__, London
 __Lucasian professor of Mathematics__, Cambridge University
 
 
+## Education
+
+`2017 - S1`
+__[Marc Bloch Center](chttps://cmb.hu-berlin.de/), Berlin, Germany
+
+- Research internship at [Algodiv](http://algodiv.huma-num.fr/)
+
+`2016 - S2`
+__University of Oslo, Norway
+
+- Exchange in [design](https://www.uio.no/studier/emner/matnat/ifi/INF5722/index-eng.html) and [pedagogy](https://www.uio.no/studier/emner/uv/iped/PED4540/index-eng.html) studies
+
+`2015 - current`
+__[École normale supérieure of Lyon](http://www.ens-lyon.fr/en/english-ens-de-lyon-269761.kjsp), France
+
+- [Master in information architecture](http://archinfo.universite-lyon.fr/)
+
+`2014 - 2015`
+__Paris VIII University, France
+
+- Year in English-studies
+
+`2013 - 2014`
+__Paris VIII University, France
+
+- Bachelor in journalism for online media
+
+`2011 - 2013`
+__[Ina Expert](http://www.ina-expert.com/en), France__
+
+- Technical degree in TV management
+
+## Publications
+
+<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+
+### Journalist articles
+
+`1669`
+Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+
+`1669`
+Lectiones opticæ.
+
+etc. etc. etc.
+
+### Blog posts
+
+`1669`
+Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+
+`1669`
+Lectiones opticæ.
+
+etc. etc. etc.
+
+### Research articles
+
+`1669`
+Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+
+`1669`
+Lectiones opticæ.
+
+etc. etc. etc.
+
+## On media
+
+
+
+## Languages
+
+English, Professional working proficiency
+French, Native or bilingual proficiency
+German, Native or bilingual proficiency
+
+## Test Score
+
+`2016`
+92/120, TOEFL iBT
 
 <!-- ### Footer
 
