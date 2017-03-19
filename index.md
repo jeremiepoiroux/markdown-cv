@@ -47,27 +47,27 @@ __Lucasian professor of Mathematics__, Cambridge University
 ## Education
 
 `2017 - S1`
-__[Marc Bloch Center](chttps://cmb.hu-berlin.de/), Berlin, Germany
+__[Marc Bloch Center](chttps://cmb.hu-berlin.de/), Berlin, Germany__
 
 - Research internship at [Algodiv](http://algodiv.huma-num.fr/)
 
 `2016 - S2`
-__University of Oslo, Norway
+__University of Oslo, Norway__
 
 - Exchange in [design](https://www.uio.no/studier/emner/matnat/ifi/INF5722/index-eng.html) and [pedagogy](https://www.uio.no/studier/emner/uv/iped/PED4540/index-eng.html) studies
 
 `2015 - current`
-__[École normale supérieure of Lyon](http://www.ens-lyon.fr/en/english-ens-de-lyon-269761.kjsp), France
+__[École normale supérieure of Lyon](http://www.ens-lyon.fr/en/english-ens-de-lyon-269761.kjsp), France__
 
 - [Master in information architecture](http://archinfo.universite-lyon.fr/)
 
 `2014 - 2015`
-__Paris VIII University, France
+__Paris VIII University, France__
 
 - Year in English-studies
 
 `2013 - 2014`
-__Paris VIII University, France
+__Paris VIII University, France__
 
 - Bachelor in journalism for online media
 
@@ -116,9 +116,9 @@ etc. etc. etc.
 
 ## Languages
 
-English, Professional working proficiency
-French, Native or bilingual proficiency
-German, Native or bilingual proficiency
+- English, Professional working proficiency
+- French, Native or bilingual proficiency
+- German, Native or bilingual proficiency
 
 ## Test Score
 
