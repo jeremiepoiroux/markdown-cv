@@ -39,18 +39,14 @@ __[Marc Bloch Center](https://cmb.hu-berlin.de/)__, Berlin, Germany
 
 - Research internship at [Algodiv](http://algodiv.huma-num.fr/) to study the designing of recommender systems
 
-- Co-president
-- Co-organizer of the [Ethics by design](ethicsbydesign.fr) event, the first conference in France about user-respect and sustainable design
-
-
 `2016 - current`
 __[Designers Ethiques](http://twitter.com/designethique)__, Association 
 
 - Co-president
-- Co-organizer of the [Ethics by design](ethicsbydesign.fr) event, the first conference in France about user-respect and sustainable design
+- Co-organizer of the [Ethics by design](ethicsbydesign.fr) event, the first conference in France about user-respectful and sustainable design
 
 `2016 - current`
-__Kaïa Editions__, Association about printing online journalist articles
+__Kaïa Editions__, Association about printing online journalistic articles
 - Co-president
 
 `2015 - 2016`
