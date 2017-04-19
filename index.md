@@ -7,7 +7,6 @@ Design, Research
 
 <div id="webaddress">
 <a href="mailto:jeremiepoiroux@protonmail.com">jeremiepoiroux[@]protonmail.com</a>
-| +33 6 35 94 85 43 (Signal)
 | <a href="https://www.linkedin.com/in/jeremiepoiroux/">LinkedIn</a>
 | <a href="https://twitter.com/jeremprx">Twitter</a>
 | <a href="https://medium.com/@jeremiepoiroux">Medium</a>
