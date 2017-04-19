@@ -160,8 +160,8 @@ __[Ina Expert](http://www.ina-expert.com/en), France__
 ## Languages
 
 - English, Professional working proficiency
-- French, Native or bilingual proficiency
-- German, Native or bilingual proficiency
+- French, Native
+- German, Bilingual proficiency
 
 ## Test Score
 
