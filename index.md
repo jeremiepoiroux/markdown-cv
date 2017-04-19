@@ -6,7 +6,8 @@ title: Jérémie Poiroux
 Design, Research
 
 <div id="webaddress">
-<a href="jeremiepoiroux@protonmail.com">jeremiepoiroux@protonmail.com</a>
+<a href="mailto:jeremiepoiroux@protonmail.com">jeremiepoiroux[@]protonmail.com</a>
+| <a href="tel:0033635948543">Signal</a>
 | <a href="https://www.linkedin.com/in/jeremiepoiroux/">LinkedIn</a>
 | <a href="https://twitter.com/jeremprx">Twitter</a>
 | <a href="https://medium.com/@jeremiepoiroux">Medium</a>
@@ -16,7 +17,7 @@ Design, Research
 
 ## Currently
 
-I’m a designer and a intern-researcher who cares about Ethics and Journalism. 
+I’m a designer and an intern-researcher who cares about Ethics and Journalism. 
 I’m currently working on research projects about algorithms and information bubbles and I'm organizing the [Ethics by Design event](ethicsbydesign.fr)
 
 ### Specialized in
@@ -25,7 +26,7 @@ Design, Research
 
 ### Research interests
 
-Filter bubbles, echo chambers, information bubbles, recommender systems, personalization, fake news, research by design
+Complex networks, filter bubbles, echo chambers, information bubbles, recommender systems, personalization, fake news, research by design
 
 ### Design interests
 
@@ -34,33 +35,38 @@ Co-design, participatory design, ethics by design, social design, design for sus
 
 ## Main experiences & projects
 
-`2017 - current`
+`2017 02 - current`
 __[Marc Bloch Center](https://cmb.hu-berlin.de/)__, Berlin, Germany
 
 - Research internship at [Algodiv](http://algodiv.huma-num.fr/) to study the designing of recommender systems
 
-`2016 - current`
+`2017 02 - current`
+__[Marc Bloch Center](https://cmb.hu-berlin.de/)__, Berlin, Germany
+
+- Master thesis at [Algodiv](http://algodiv.huma-num.fr/) to make information bubbles comprehensible
+
+`2016 10 - current`
 __[Designers Ethiques](http://twitter.com/designethique)__, Association 
 
 - Co-president
 - Co-organizer of the [Ethics by design](ethicsbydesign.fr) event, the first conference in France about user-respectful and sustainable design
 
-`2016 - current`
+`2016 05 - current`
 __Kaïa Editions__, Association about printing online journalistic articles
 - Co-president
 
-`2015 - 2016`
+`2015 09 - 2016 11`
 __[AInsitu](http://association-ainsitu.fr/)__, School business association 
 
 - Treasurer
 - Project coordinator
 
-`2015 - current`
+`2015 11 - current`
 __[UX For News](http://uxfornews.com/)__, Slack community promoting User Experience Design in journalism
 
 - Co-founder
 
-`2015 - 2016`
+`2015 09 - 2016 06`
 __[Newsresources](https://www.newsresources.org/)__, Association promoting online journalism 
 
 - Project member
@@ -108,19 +114,22 @@ __[Ina Expert](http://www.ina-expert.com/en), France__
 `2016`
 [Using Minecraft to Enhance Collaboration as a 21st Century Skill in Primary Schools](https://www.researchgate.net/publication/311569715_Using_Minecraft_to_Enhance_Collaboration_as_a_21st_Century_Skill_in_Primary_Schools)
 
-<!--
-### Journalist articles
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
--->
-
 ### Medium posts
+
+`2017 04`
+[Voici mon réseau Facebook](https://medium.com/@jeremiepoiroux/voici-mon-r%C3%A9seau-facebook-f5ae9d9a3b11)
+
+`2017 04`
+[Mon réseau Twitter décortiqué](https://medium.com/@jeremiepoiroux/mon-r%C3%A9seau-twitter-d%C3%A9cortiqu%C3%A9-4a99c2194cde)
+
+`2017 04`
+[Partir à la découverte de ses réseaux — Configuration](https://medium.com/@jeremiepoiroux/partir-%C3%A0-la-d%C3%A9couverte-de-ses-r%C3%A9seaux-configuration-6cc638e4e1be)
+
+`2017 04`
+[FILTER BUBBLES EVERYWHEEERE](https://medium.com/bear-time/filter-bubbles-everywheeere-59ddcab36c)
+
+`2017 04`
+[Théorie des graphes — concepts de base](https://medium.com/bear-time/th%C3%A9orie-des-graphes-concepts-de-base-cc7aef4c39c3)
 
 `2017 03`
 [A brief summary of the political situation in France](https://medium.com/@jeremiepoiroux/a-brief-summary-of-the-political-situation-in-france-9864a4e87c56#.8wk0lkbxp)
@@ -136,6 +145,11 @@ etc. etc. etc.
 
 `2017 02`
 [Filter Bubble Representation](https://medium.com/bear-time/filter-bubble-representation-bbce74e7e8b4#.2rspq9mph)
+
+### Journalism
+
+`2017 01`
+[Les élus suppriment massivement les aides aux opposants au Center Parcs](https://www.streetpress.com/sujet/1484563322-elus-suppriment-massivement-aides-aux-opposants-center-parcs)
 
 ## Informatic skills
 
@@ -163,8 +177,8 @@ etc. etc. etc.
 `2014`
  [Jérémie Poiroux, Blog et datajournalisme](https://radiovl.fr/jeremie-poiroux-blog-et-datajournalisme/), RadioVL
 
-<!-- ### Footer
+### Footer
 
-Last updated: March 2017 -->
+Last updated: 2017 04 19
 
 
