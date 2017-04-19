@@ -7,7 +7,7 @@ Design, Research
 
 <div id="webaddress">
 <a href="mailto:jeremiepoiroux@protonmail.com">jeremiepoiroux[@]protonmail.com</a>
-| <a href="tel:0033635948543">Signal</a>
+| <a href="callto:0033635948543">Signal</a>
 | <a href="https://www.linkedin.com/in/jeremiepoiroux/">LinkedIn</a>
 | <a href="https://twitter.com/jeremprx">Twitter</a>
 | <a href="https://medium.com/@jeremiepoiroux">Medium</a>
