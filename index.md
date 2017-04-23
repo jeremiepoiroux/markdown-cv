@@ -116,6 +116,9 @@ __[Ina Expert](http://www.ina-expert.com/en), France__
 ### Medium posts
 
 `2017 04`
+[Élection présidentielle — À quoi ressemblent les réseaux Twitter des candidat·e·s ?](https://medium.com/bear-time/élection-présidentielle-à-quoi-ressemblent-les-réseaux-twitter-des-candidat-e-s-40aa23d553b9)
+
+`2017 04`
 [Voici mon réseau Facebook](https://medium.com/@jeremiepoiroux/voici-mon-r%C3%A9seau-facebook-f5ae9d9a3b11)
 
 `2017 04`
