@@ -171,6 +171,18 @@ __[Ina Expert](http://www.ina-expert.com/en), France__
 `2016`
 92/120, TOEFL iBT
 
+## Volonteering
+
+`2016 08 - 2016 12`
+__[Student bar], Oslo, Norway__
+
+- Barista
+
+`2016 08 - 2016 12`
+__Associative student brewery, France__
+
+- Member
+
 ## In the media
 
 `2017`
@@ -179,8 +191,8 @@ __[Ina Expert](http://www.ina-expert.com/en), France__
 `2014`
  [Jérémie Poiroux, Blog et datajournalisme](https://radiovl.fr/jeremie-poiroux-blog-et-datajournalisme/), RadioVL
 
-### Footer
+---
 
-Last updated: 2017 04 23
+Last updated: 2017 04 27
 
 
