@@ -37,12 +37,12 @@ Co-design, participatory design, ethics by design, social design, design for sus
 `2017 02 - current`
 __[Marc Bloch Center](https://cmb.hu-berlin.de/)__, Berlin, Germany
 
-- Research internship at [Algodiv](http://algodiv.huma-num.fr/) to study the designing of recommender systems
+- Research internship at [Algodiv](http://algodiv.huma-num.fr/) to study the design workflow of recommender systems
 
 `2017 02 - current`
 __[Marc Bloch Center](https://cmb.hu-berlin.de/)__, Berlin, Germany
 
-- Master thesis at [Algodiv](http://algodiv.huma-num.fr/) to make information bubbles comprehensible
+- Master thesis at [Algodiv](http://algodiv.huma-num.fr/) to visualize information bubbles
 
 `2016 10 - current`
 __[Designers Ethiques](http://twitter.com/designethique)__, Association 
@@ -174,12 +174,12 @@ __[Ina Expert](http://www.ina-expert.com/en), France__
 ## Volonteering
 
 `2016 08 - 2016 12`
-__[Student bar], Oslo, Norway__
+__Student bar, Oslo, Norway__
 
 - Barista
 
 `2016 08 - 2016 12`
-__Associative student brewery, France__
+__Associative student brewery, Oslo, Norway__
 
 - Member
 
