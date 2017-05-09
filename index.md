@@ -17,7 +17,7 @@ Design, Research
 ## Currently
 
 I’m a designer and an intern-researcher who cares about Ethics and Journalism. 
-I’m currently working on research projects about algorithms and information bubbles and I'm organizing the [Ethics by Design event](ethicsbydesign.fr)
+I’m working on research projects about algorithms and information bubbles and I'm organizing the [Ethics by Design event](ethicsbydesign.fr)
 
 ### Specialized in
 
@@ -52,6 +52,7 @@ __[Designers Ethiques](http://twitter.com/designethique)__, Association
 
 `2016 05 - current`
 __Kaïa Editions__, Association about printing online journalistic articles
+
 - Co-president
 
 `2015 09 - 2016 11`
@@ -114,6 +115,10 @@ __[Ina Expert](http://www.ina-expert.com/en), France__
 [Using Minecraft to Enhance Collaboration as a 21st Century Skill in Primary Schools](https://www.researchgate.net/publication/311569715_Using_Minecraft_to_Enhance_Collaboration_as_a_21st_Century_Skill_in_Primary_Schools)
 
 ### Medium posts
+
+
+`2017 05`
+[Demandez le programme ! — Ethics by design : Tout savoir sur la journée du 12 mai](https://medium.com/designers-éthiques/demandez-le-programme-9aff3c196b0d)
 
 `2017 04`
 [Élection présidentielle — À quoi ressemblent les réseaux Twitter des candidat·e·s ?](https://medium.com/bear-time/élection-présidentielle-à-quoi-ressemblent-les-réseaux-twitter-des-candidat-e-s-40aa23d553b9)
