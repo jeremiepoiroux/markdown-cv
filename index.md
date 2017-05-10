@@ -114,8 +114,10 @@ __[Ina Expert](http://www.ina-expert.com/en), France__
 `2016`
 [Using Minecraft to Enhance Collaboration as a 21st Century Skill in Primary Schools](https://www.researchgate.net/publication/311569715_Using_Minecraft_to_Enhance_Collaboration_as_a_21st_Century_Skill_in_Primary_Schools)
 
-### Medium posts
+### Blog posts
 
+`2017 05`
+[Fake news et accès à l’info : les “bulles de filtres” ne sont pas le plus gros problème ! - Mais Où va le Web ?](http://maisouvaleweb.fr/fake-news-et-acces-a-linfo-les-bulles-de-filtres-ne-sont-pas-le-plus-gros-probleme/)
 
 `2017 05`
 [Demandez le programme ! — Ethics by design : Tout savoir sur la journée du 12 mai](https://medium.com/designers-éthiques/demandez-le-programme-9aff3c196b0d)
@@ -156,7 +158,7 @@ __[Ina Expert](http://www.ina-expert.com/en), France__
 ### Journalism
 
 `2017 01`
-[Les élus suppriment massivement les aides aux opposants au Center Parcs](https://www.streetpress.com/sujet/1484563322-elus-suppriment-massivement-aides-aux-opposants-center-parcs)
+[Les élus suppriment massivement les aides aux opposants au Center Parcs - Street Press](https://www.streetpress.com/sujet/1484563322-elus-suppriment-massivement-aides-aux-opposants-center-parcs)
 
 ## Informatic skills
 
