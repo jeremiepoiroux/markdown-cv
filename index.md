@@ -17,7 +17,7 @@ Design, Research
 ## Currently
 
 I’m a designer and an intern-researcher who cares about Ethics and Journalism. 
-I’m working on research projects about algorithms and information bubbles and I'm organizing the [Ethics by Design event](ethicsbydesign.fr)
+I’m working on research projects about algorithms and information bubbles and I'm launching the [Kaïa project](https://kaia-lescarnets.fr)
 
 ### Specialized in
 
@@ -48,12 +48,17 @@ __[Marc Bloch Center](https://cmb.hu-berlin.de/)__, Berlin, Germany
 __[Designers Ethiques](http://twitter.com/designethique)__, Association 
 
 - Co-president
-- Co-organizer of the [Ethics by design](ethicsbydesign.fr) event, the first conference in France about user-respectful and sustainable design
+- Co-organizer of the [Ethics by design](http://ethicsbydesign.fr) event, the first conference in France about user-respectful and sustainable design which took place in May 2017
 
 `2016 05 - current`
-__Kaïa Editions__, Association about printing online journalistic articles
+__[Kaïa Editions](https://kaia-lescarnets.fr)__, Association about printing online journalistic articles
 
 - Co-president
+
+`2015 11 - current`
+__[UX For News](http://uxfornews.com/)__, Slack community promoting User Experience Design in journalism
+
+- Co-founder
 
 `2015 09 - 2016 11`
 __[AInsitu](http://association-ainsitu.fr/)__, School business association 
@@ -61,16 +66,10 @@ __[AInsitu](http://association-ainsitu.fr/)__, School business association
 - Treasurer
 - Project coordinator
 
-`2015 11 - current`
-__[UX For News](http://uxfornews.com/)__, Slack community promoting User Experience Design in journalism
-
-- Co-founder
-
 `2015 09 - 2016 06`
 __[Newsresources](https://www.newsresources.org/)__, Association promoting online journalism 
 
 - Project member
-
 
 ## Education
 
@@ -200,6 +199,6 @@ __Associative student brewery, Oslo, Norway__
 
 ---
 
-Last updated: 2017 04 27
+Last updated: 2017 05 25
 
 
