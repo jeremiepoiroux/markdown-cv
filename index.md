@@ -145,9 +145,6 @@ __[Ina Expert](http://www.ina-expert.com/en), France__
 `2017 03`
 [Ethics by Design, l’événement !](https://medium.com/designers-%C3%A9thiques/ethics-by-design-l%C3%A9v%C3%A9nement-11c4a5be42f7#.wteofim03)
 
-`2017 03`
-[How we built a disruptive experiment in the context of clothes selling with a chatbot](https://medium.com/bear-time/how-we-built-a-disruptive-experiment-in-the-context-of-clothes-selling-with-a-chatbot-60e96f1e68c7#.vu0856lfb)
-
 `2017 02`
 [Algorithms ethnography](https://medium.com/bear-time/algorithms-ethnography-8e97666b94b4#.f4jezay80)
 
@@ -159,20 +156,27 @@ __[Ina Expert](http://www.ina-expert.com/en), France__
 `2017 01`
 [Les élus suppriment massivement les aides aux opposants au Center Parcs - Street Press](https://www.streetpress.com/sujet/1484563322-elus-suppriment-massivement-aides-aux-opposants-center-parcs)
 
-## Informatic skills
+## Small projects
+
+`2016 05 - 2017 03`
+__[ENSlip](https://medium.com/bear-time/how-we-built-a-disruptive-experiment-in-the-context-of-clothes-selling-with-a-chatbot-60e96f1e68c7#.vu0856lfb)__, A chatbot to sell high-school underwears
+
+## Skills
+
+### Informatic skills
 
 - Python
 - Gephi
 - LaTeX
 - HTML/CSS
 
-## Languages
+### Languages
 
 - English, Professional working proficiency
 - French, Native
 - German, Bilingual proficiency
 
-## Test Score
+### Test Score
 
 `2016`
 92/120, TOEFL iBT
@@ -199,6 +203,6 @@ __Associative student brewery, Oslo, Norway__
 
 ---
 
-Last updated: 2017 05 25
+[Last updated: 2017 05 25](https://github.com/jeremiepoiroux/website/commits/gh-pages/index.md)
 
 
