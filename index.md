@@ -202,6 +202,6 @@ __Associative student brewery, Oslo, Norway__
 
 ---
 
-[Last updated: 2017 05 25](https://github.com/jeremiepoiroux/website/commits/gh-pages/index.md)
+[Last update: 2017 05 31](https://github.com/jeremiepoiroux/website/commits/gh-pages/index.md)
 
 
