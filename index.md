@@ -17,7 +17,7 @@ Design, Research
 ## Currently
 
 I’m a designer and an intern-researcher who cares about Ethics and Journalism. 
-I’m working on research projects about algorithms and information bubbles and I'm launching the [Kaïa project](https://kaia-lescarnets.fr)
+I’m working on research projects about algorithms & information bubbles. I'm the co-founder of [Kaïa](https://kaia-lescarnets.fr).
 
 ### Specialized in
 
@@ -30,7 +30,6 @@ Complex networks, filter bubbles, echo chambers, information bubbles, recommende
 ### Design interests
 
 Co-design, participatory design, ethics by design, social design, design for sustainability, design sprint, design for journalism, design by research
-
 
 ## Main experiences & projects
 
