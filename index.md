@@ -114,6 +114,9 @@ __[Ina Expert](http://www.ina-expert.com/en), France__
 
 ### Blog posts
 
+`2017 07`
+[C’était “Ethics by Design” 2017 @ Lyon !](https://medium.com/designers-éthiques/cétait-ethics-by-design-2017-lyon-730dade2540f)
+
 `2017 05`
 [Fake news et accès à l’info : les “bulles de filtres” ne sont pas le plus gros problème ! - Mais Où va le Web ?](http://maisouvaleweb.fr/fake-news-et-acces-a-linfo-les-bulles-de-filtres-ne-sont-pas-le-plus-gros-probleme/)
 
@@ -153,7 +156,10 @@ __[Ina Expert](http://www.ina-expert.com/en), France__
 ### Journalism
 
 `2017 01`
-[Les élus suppriment massivement les aides aux opposants au Center Parcs - Street Press](https://www.streetpress.com/sujet/1484563322-elus-suppriment-massivement-aides-aux-opposants-center-parcs)
+[À Roybon, l’autoritarisme des élus est héréditaire](http://lezephyrmag.com/libre/limpromptu/a-roybon-lautoritarisme-des-elus-est-hereditaire/), *Le Zéphyr*
+
+`2017 01`
+[Les élus suppriment massivement les aides aux opposants au Center Parcs](https://www.streetpress.com/sujet/1484563322-elus-suppriment-massivement-aides-aux-opposants-center-parcs), *Street Press*
 
 ## Small projects
 
@@ -195,13 +201,19 @@ __Associative student brewery, Oslo, Norway__
 ## In the media
 
 `2017`
- [Ethics by design, il y a urgence !](http://maisouvaleweb.fr/ethics-by-design-il-y-a-urgence-le-12-mai-a-lens-lyon/), Mais où va le web ?
+ [Sommes-nous prisonniers de bulles informationnelles ?](https://www.bm-lyon.fr/spip.php?page=video&id_video=974), Bibliothèque Municipale de Lyon
+
+`2017`
+ [« Sur Internet, comme dans la vraie vie, nous sommes enfermés dans notre bulle »](http://www.rue89lyon.fr/2017/10/09/sur-internet-comme-dans-la-vraie-vie-nous-sommes-enfermes-dans-notre-bulle/), *Rue89 Lyon*
+
+`2017`
+ [Ethics by design, il y a urgence !](http://maisouvaleweb.fr/ethics-by-design-il-y-a-urgence-le-12-mai-a-lens-lyon/), *Mais où va le web ?*
 
 `2014`
- [Jérémie Poiroux, Blog et datajournalisme](https://radiovl.fr/jeremie-poiroux-blog-et-datajournalisme/), RadioVL
+ [Jérémie Poiroux, Blog et datajournalisme](https://radiovl.fr/jeremie-poiroux-blog-et-datajournalisme/), *RadioVL*
 
 ---
 
-[Last update: 2017 05 31](https://github.com/jeremiepoiroux/website/commits/gh-pages/index.md)
+[Last update: 2017 10 14](https://github.com/jeremiepoiroux/website/commits/gh-pages/index.md)
 
 
