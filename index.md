@@ -77,65 +77,61 @@ __[ENSlip](https://medium.com/bear-time/how-we-built-a-disruptive-experiment-in-
 ## Education
 
 `2017 02 - 2017 08`
-__[Marc Bloch Center](https://cmb.hu-berlin.de/), Berlin, Germany__
+__[Marc Bloch Center](https://cmb.hu-berlin.de/)__, research center in social sciences in Berlin, Germany
 
 - Master thesis at [Algodiv](http://algodiv.huma-num.fr/) to study information bubbles and containement on Twitter
 
 `2016 08 - 2016 12`
-__University of Oslo, Norway__
+__University of Oslo__, Norway
 
 - Exchange in [design](https://www.uio.no/studier/emner/matnat/ifi/INF5722/index-eng.html) and [pedagogy](https://www.uio.no/studier/emner/uv/iped/PED4540/index-eng.html) studies
 
 `2015 - 2017`
-__[École normale supérieure of Lyon](http://www.ens-lyon.fr/en/english-ens-de-lyon-269761.kjsp), France__
+__[École normale supérieure of Lyon](http://www.ens-lyon.fr/en/english-ens-de-lyon-269761.kjsp)__, France
 
 - [Master in information architecture](http://archinfo.universite-lyon.fr/) and design
 
 `2014 - 2015`
-__Paris VIII University, France__
+__Paris VIII University__, France
 
 - One year in English-studies
 
 `2013 - 2014`
-__Paris VIII University, France__
+__Paris VIII University__, France
 
 - Technical bachelor in journalism for TV online media
 
 `2011 - 2013`
-__[Ina Expert](http://www.ina-expert.com/en), France__
+__[Ina Expert](http://www.ina-expert.com/en)__, France
 
 - Technical degree in TV production and management
 
 `2011`
-__Lycée Joubert, France__
+__Lycée Joubert__, France
 
 - High school grade in economy and social sciences (Baccalauréat Économique et Social)
 
 ## Volonteering
 
 `2016 08 - 2016 12`
-__Student bar, Oslo, Norway__
+__Student bar__, University of Oslo, Norway
 
 - Barista
 
 `2016 08 - 2016 12`
-__Associative student brewery, Oslo, Norway__
+__Associative student brewery__, University of Oslo, Norway
 
 - Member
 
 `2012 09 - 2015 08`
-__[Association Jets d'encre](http://www.jetsdencre.asso.fr), Paris, France__
+__[Jets d'encre](http://www.jetsdencre.asso.fr)__, organization for the defense & promotion of youth press
 
 - Active member
-- Jets d'encre is an association for press freedom and defense & promotion of youth press.
-- I realized promotional and coverage videos of the youth press festival Expresso which gathers 300 youths to write a newspaper in one night.
 
 `2011 09 - 2012 08`
-__[Association Jets d'encre](http://www.jetsdencre.asso.fr), Paris, France__
+__[Jets d'encre](http://www.jetsdencre.asso.fr)__, organization for the defense & promotion of youth press
 
 - Board member
-- Jets d'encre is an association for press freedom and defense & promotion of youth press.
-- I was in charge of a regional youth press newspapers contest and of the organisation of the awards ceremony.
 
 ## Technical skills
 
