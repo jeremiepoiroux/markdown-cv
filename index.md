@@ -3,7 +3,6 @@ layout: cv
 title: Jérémie Poiroux
 ---
 # Jérémie Poiroux
-Design, Research
 
 <div id="webaddress">
 <a href="mailto:jeremiepoiroux@protonmail.com">jeremiepoiroux[@]protonmail.com</a>
@@ -13,11 +12,10 @@ Design, Research
 | <a href="https://github.com/jeremiepoiroux">Github</a>
 </div>
 
-
 ## Currently
 
-I’m a designer and an intern-researcher who cares about Ethics and Journalism. 
-I’m working on research projects about algorithms & information bubbles. I'm the co-founder of [Kaïa](https://kaia-lescarnets.fr).
+I’m a freelance designer and a junior-researcher in digital sociology. 
+I’m working on research projects about algorithms & information bubbles. I'm also the co-founder of [Designers Éthiques](https://designersethiques.org) and [Kaïa](https://kaia-lescarnets.fr).
 
 ### Specialized in
 
@@ -25,11 +23,11 @@ Design, Research
 
 ### Research interests
 
-Complex networks, filter bubbles, echo chambers, information bubbles, recommender systems, personalization, fake news, research by design
+Complex networks, information bubbles, recommender systems, personalization, research by design
 
-### Design interests
+### Design specializations
 
-Co-design, participatory design, ethics by design, social design, design for sustainability, design sprint, design for journalism, design by research
+Co-design, participatory design, ethics by design, social design, design for sustainability, design sprint, design for journalism
 
 ## Main experiences & projects
 
@@ -204,13 +202,13 @@ __Associative student brewery, Oslo, Norway__
  [Sommes-nous prisonniers de bulles informationnelles ?](https://www.bm-lyon.fr/spip.php?page=video&id_video=974), Bibliothèque Municipale de Lyon
 
 `2017`
- [« Sur Internet, comme dans la vraie vie, nous sommes enfermés dans notre bulle »](http://www.rue89lyon.fr/2017/10/09/sur-internet-comme-dans-la-vraie-vie-nous-sommes-enfermes-dans-notre-bulle/), *Rue89 Lyon*
+ [« Sur Internet, comme dans la vraie vie, nous sommes enfermés dans notre bulle »](http://www.rue89lyon.fr/2017/10/09/sur-internet-comme-dans-la-vraie-vie-nous-sommes-enfermes-dans-notre-bulle/), Rue89 Lyon
 
 `2017`
- [Ethics by design, il y a urgence !](http://maisouvaleweb.fr/ethics-by-design-il-y-a-urgence-le-12-mai-a-lens-lyon/), *Mais où va le web ?*
+ [Ethics by design, il y a urgence !](http://maisouvaleweb.fr/ethics-by-design-il-y-a-urgence-le-12-mai-a-lens-lyon/), Mais où va le web ?
 
 `2014`
- [Jérémie Poiroux, Blog et datajournalisme](https://radiovl.fr/jeremie-poiroux-blog-et-datajournalisme/), *RadioVL*
+ [Jérémie Poiroux, Blog et datajournalisme](https://radiovl.fr/jeremie-poiroux-blog-et-datajournalisme/), RadioVL
 
 ---
 
