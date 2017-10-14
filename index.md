@@ -139,16 +139,26 @@ __Association Jets d'encre, Paris, France__
 - Jets d'encre is an association for press freedom and defense & promotion of youth press.
 I was in charge of a regional youth press newspapers contest and of the organisation of the awards ceremony.
 
-## Skills
+## Technical skills
 
-### Informatic skills
+### In informatic
 
 - Python
 - Gephi
 - LaTeX
 - HTML/CSS
 
-### Languages
+### In web design and analytics
+
+- Axure
+- Hotjar
+
+### In video 
+
+- Adobe Premiere Pro
+- Sony PMW-300 video camera
+
+## Languages
 
 - English, Professional working proficiency
 - French, Native
