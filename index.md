@@ -68,37 +68,96 @@ __[Newsresources](https://www.newsresources.org/)__, Association promoting onlin
 
 - Project member
 
+## Secondary experiences & projects
+
+`2016 05 - 2017 03`
+__[ENSlip](https://medium.com/bear-time/how-we-built-a-disruptive-experiment-in-the-context-of-clothes-selling-with-a-chatbot-60e96f1e68c7#.vu0856lfb)__, A chatbot to sell high-school underwears
+
+
 ## Education
 
-`2017 (S1)`
+`2017 02 - 2017 08`
 __[Marc Bloch Center](https://cmb.hu-berlin.de/), Berlin, Germany__
 
-- Master thesis at [Algodiv](http://algodiv.huma-num.fr/) to study information bubbles on Twitter
+- Master thesis at [Algodiv](http://algodiv.huma-num.fr/) to study information bubbles and containement on Twitter
 
-`2016 (S2)`
+`2016 08 - 2016 12`
 __University of Oslo, Norway__
 
 - Exchange in [design](https://www.uio.no/studier/emner/matnat/ifi/INF5722/index-eng.html) and [pedagogy](https://www.uio.no/studier/emner/uv/iped/PED4540/index-eng.html) studies
 
-`2015 - current`
+`2015 - 2017`
 __[École normale supérieure of Lyon](http://www.ens-lyon.fr/en/english-ens-de-lyon-269761.kjsp), France__
 
-- [Master in information architecture](http://archinfo.universite-lyon.fr/)
+- [Master in information architecture](http://archinfo.universite-lyon.fr/) and design
 
 `2014 - 2015`
 __Paris VIII University, France__
 
-- Year in English-studies
+- One year in English-studies
 
 `2013 - 2014`
 __Paris VIII University, France__
 
-- Bachelor in journalism for online media
+- Technical bachelor in journalism for TV online media
 
 `2011 - 2013`
 __[Ina Expert](http://www.ina-expert.com/en), France__
 
-- Technical degree in TV management
+- Technical degree in TV production and management
+
+`2011`
+__Lycée Joubert, France__
+
+- High school grade in economy and social sciences (Baccalauréat Économique et Social)
+
+## Volonteering
+
+`2016 08 - 2016 12`
+__Student bar, Oslo, Norway__
+
+- Barista
+
+`2016 08 - 2016 12`
+__Associative student brewery, Oslo, Norway__
+
+- Member
+
+`2012 09 - 2015 08`
+__Association Jets d'encre, Paris, France__
+
+- Active member
+
+- Jets d'encre is an association for press freedom and defense & promotion of youth press.
+I produced promotional videos and video coverages of the youth press festival Expresso which gathers 300 youths who are writing a newspaper within one night.
+
+`2011 09 - 2012 08`
+__Association Jets d'encre, Paris, France__
+
+- Board member
+
+- Jets d'encre is an association for press freedom and defense & promotion of youth press.
+I was in charge of a regional youth press newspapers contest and of the organisation of the awards ceremony.
+
+## Skills
+
+### Informatic skills
+
+- Python
+- Gephi
+- LaTeX
+- HTML/CSS
+
+### Languages
+
+- English, Professional working proficiency
+- French, Native
+- German, Bilingual proficiency
+
+### Test Score
+
+`2016`
+92/120, TOEFL iBT
 
 ## Publications
 
@@ -158,43 +217,6 @@ __[Ina Expert](http://www.ina-expert.com/en), France__
 
 `2017 01`
 [Les élus suppriment massivement les aides aux opposants au Center Parcs](https://www.streetpress.com/sujet/1484563322-elus-suppriment-massivement-aides-aux-opposants-center-parcs), *Street Press*
-
-## Small projects
-
-`2016 05 - 2017 03`
-__[ENSlip](https://medium.com/bear-time/how-we-built-a-disruptive-experiment-in-the-context-of-clothes-selling-with-a-chatbot-60e96f1e68c7#.vu0856lfb)__, A chatbot to sell high-school underwears
-
-## Skills
-
-### Informatic skills
-
-- Python
-- Gephi
-- LaTeX
-- HTML/CSS
-
-### Languages
-
-- English, Professional working proficiency
-- French, Native
-- German, Bilingual proficiency
-
-### Test Score
-
-`2016`
-92/120, TOEFL iBT
-
-## Volonteering
-
-`2016 08 - 2016 12`
-__Student bar, Oslo, Norway__
-
-- Barista
-
-`2016 08 - 2016 12`
-__Associative student brewery, Oslo, Norway__
-
-- Member
 
 ## In the media
 
