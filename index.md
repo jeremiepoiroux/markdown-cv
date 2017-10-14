@@ -124,20 +124,18 @@ __Associative student brewery, Oslo, Norway__
 - Member
 
 `2012 09 - 2015 08`
-__Association Jets d'encre, Paris, France__
+__[Association Jets d'encre](http://www.jetsdencre.asso.fr), Paris, France__
 
 - Active member
-
 - Jets d'encre is an association for press freedom and defense & promotion of youth press.
-I produced promotional videos and video coverages of the youth press festival Expresso which gathers 300 youths who are writing a newspaper within one night.
+- I produced promotional videos and video coverages of the youth press festival Expresso which gathers 300 youths who are writing a newspaper within one night.
 
 `2011 09 - 2012 08`
-__Association Jets d'encre, Paris, France__
+__[Association Jets d'encre](http://www.jetsdencre.asso.fr), Paris, France__
 
 - Board member
-
 - Jets d'encre is an association for press freedom and defense & promotion of youth press.
-I was in charge of a regional youth press newspapers contest and of the organisation of the awards ceremony.
+- I was in charge of a regional youth press newspapers contest and of the organisation of the awards ceremony.
 
 ## Technical skills
 
