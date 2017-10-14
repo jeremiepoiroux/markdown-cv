@@ -128,7 +128,7 @@ __[Association Jets d'encre](http://www.jetsdencre.asso.fr), Paris, France__
 
 - Active member
 - Jets d'encre is an association for press freedom and defense & promotion of youth press.
-- I produced promotional videos and video coverages of the youth press festival Expresso which gathers 300 youths who are writing a newspaper within one night.
+- I realized promotional and coverage videos of the youth press festival Expresso which gathers 300 youths to write a newspaper in one night.
 
 `2011 09 - 2012 08`
 __[Association Jets d'encre](http://www.jetsdencre.asso.fr), Paris, France__
@@ -221,10 +221,10 @@ __[Association Jets d'encre](http://www.jetsdencre.asso.fr), Paris, France__
 ### Journalism
 
 `2017 01`
-[À Roybon, l’autoritarisme des élus est héréditaire](http://lezephyrmag.com/libre/limpromptu/a-roybon-lautoritarisme-des-elus-est-hereditaire/), *Le Zéphyr*
+[À Roybon, l’autoritarisme des élus est héréditaire](http://lezephyrmag.com/libre/limpromptu/a-roybon-lautoritarisme-des-elus-est-hereditaire/), Le Zéphyr
 
 `2017 01`
-[Les élus suppriment massivement les aides aux opposants au Center Parcs](https://www.streetpress.com/sujet/1484563322-elus-suppriment-massivement-aides-aux-opposants-center-parcs), *Street Press*
+[Les élus suppriment massivement les aides aux opposants au Center Parcs](https://www.streetpress.com/sujet/1484563322-elus-suppriment-massivement-aides-aux-opposants-center-parcs), Street Press
 
 ## In the media
 
