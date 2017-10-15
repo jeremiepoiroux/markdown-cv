@@ -192,7 +192,7 @@ __[Les Z'arpètes](http://www.leszarpetes.asso.fr)__, cultural organization prov
 ### Research articles
 
 `2017`
-Master thesis - Visualiser le confinement sur Twitter ("Vizualisation of the containement on Twitter"), École normale supérieur de Lyon, Algodiv and the Marc Bloch Center
+Master thesis - Visualiser le confinement sur Twitter ("Vizualisation of the containement on Twitter"), École normale supérieure de Lyon, Algodiv and the Marc Bloch Center
 
 `2016`
 [A participatory design approach to improve the touristic experience in Oslo](https://www.researchgate.net/publication/311581592_A_participatory_design_approach_to_improve_the_touristic_experience_in_Oslo), University of Oslo
@@ -328,6 +328,6 @@ Master thesis - Visualiser le confinement sur Twitter ("Vizualisation of the con
 
 ---
 
-[Last update: 2017 10 14](https://github.com/jeremiepoiroux/website/commits/gh-pages/index.md)
+[Last update: 2017 10 15](https://github.com/jeremiepoiroux/website/commits/gh-pages/index.md)
 
 
