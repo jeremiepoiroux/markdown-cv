@@ -63,16 +63,35 @@ __[AInsitu](http://association-ainsitu.fr/)__, School business association
 - Treasurer
 - Project coordinator
 
-`2015 09 - 2016 06`
-__[Newsresources](https://www.newsresources.org/)__, Association promoting online journalism 
-
-- Project member
-
 ## Secondary experiences & projects
 
 `2016 05 - 2017 03`
 __[ENSlip](https://medium.com/bear-time/how-we-built-a-disruptive-experiment-in-the-context-of-clothes-selling-with-a-chatbot-60e96f1e68c7#.vu0856lfb)__, A chatbot to sell high-school underwears
 
+- Designer
+
+`2015 09 - 2016 06`
+__[Newsresources](https://www.newsresources.org/)__, Association promoting online journalism 
+
+- Project member
+
+`2010 - 2011`
+__Splyn__, Rock&Pop music group
+
+- Guitarist
+
+`2010 - 2011`
+__[Crime dans l'Orient-Express](http://www.leszarpetes.asso.fr/wp-content/uploads/2017/10/Brochure-manifestations-passées.pdf)__, Play performed and directed by youths
+
+- Director
+- Sound and video technician
+
+`2009 - 2011`
+__Le Joub'nal__, High school newspaper
+
+- Co-founder
+- Editor
+- Edito-in-chief
 
 ## Education
 
@@ -121,7 +140,7 @@ __Student bar__, University of Oslo, Norway
 `2016 08 - 2016 12`
 __Associative student brewery__, University of Oslo, Norway
 
-- Member
+- Active member
 
 `2012 09 - 2015 08`
 __[Jets d'encre](http://www.jetsdencre.asso.fr)__, organization for the defense & promotion of youth press
@@ -132,6 +151,11 @@ __[Jets d'encre](http://www.jetsdencre.asso.fr)__, organization for the defense 
 __[Jets d'encre](http://www.jetsdencre.asso.fr)__, organization for the defense & promotion of youth press
 
 - Board member
+
+`2009 - 2011`
+__[Les Z'arpètes](http://www.leszarpetes.asso.fr)__, cultural organization providing dance, acting and arts classes
+
+- Sound technician
 
 ## Technical skills
 
