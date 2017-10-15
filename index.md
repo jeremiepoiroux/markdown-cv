@@ -189,7 +189,7 @@ __[Les Z'arpètes](http://www.leszarpetes.asso.fr)__, cultural organization prov
 
 ## Publications
 
-### Research articles
+### Research
 
 `2017`
 Master thesis - Visualiser le confinement sur Twitter ("Vizualisation of the containement on Twitter"), École normale supérieure de Lyon, Algodiv and the Marc Bloch Center
@@ -200,7 +200,7 @@ Master thesis - Visualiser le confinement sur Twitter ("Vizualisation of the con
 `2016`
 [Using Minecraft to Enhance Collaboration as a 21st Century Skill in Primary Schools](https://www.researchgate.net/publication/311569715_Using_Minecraft_to_Enhance_Collaboration_as_a_21st_Century_Skill_in_Primary_Schools), University of Oslo
 
-### Blog posts
+### Blogging
 
 `2017 07`
 [C’était “Ethics by Design” 2017 @ Lyon !](https://medium.com/designers-éthiques/cétait-ethics-by-design-2017-lyon-730dade2540f), Designers Éthique's Medium
