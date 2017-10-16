@@ -44,15 +44,11 @@ __[Éditions Kaïa](https://kaia-lescarnets.fr)__, we print online journalistic 
 
 - Co-founder
 
-`2017 02 - 2017 07`
-__[Marc Bloch Center](https://cmb.hu-berlin.de/)__, Berlin, Germany
-
-- Research internship at [Algodiv](http://algodiv.huma-num.fr/) to study recommender systems from a sociological point of view
-
 `2017 02 - 2017 08`
 __[Marc Bloch Center](https://cmb.hu-berlin.de/)__, Berlin, Germany
 
 - Master thesis at [Algodiv](http://algodiv.huma-num.fr/) to visualize containement on Twitter
+- Research internship at [Algodiv](http://algodiv.huma-num.fr/) to study recommender systems from a sociological point of view
 
 `2015 09 - 2016 11`
 __[AInsitu](http://association-ainsitu.fr/)__, School business association 
