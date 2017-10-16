@@ -200,117 +200,51 @@ Master thesis - Visualiser le confinement sur Twitter ("Vizualisation of the con
 `2016`
 [Using Minecraft to Enhance Collaboration as a 21st Century Skill in Primary Schools](https://www.researchgate.net/publication/311569715_Using_Minecraft_to_Enhance_Collaboration_as_a_21st_Century_Skill_in_Primary_Schools), University of Oslo
 
-### Blogging
+### Blogging (selection)
 
-`2017 07`
+`2017`
 [C’était “Ethics by Design” 2017 @ Lyon !](https://medium.com/designers-éthiques/cétait-ethics-by-design-2017-lyon-730dade2540f), Designers Éthique's Medium
 
-`2017 05`
+`2017`
 [Fake news et accès à l’info : les “bulles de filtres” ne sont pas le plus gros problème !](http://maisouvaleweb.fr/fake-news-et-acces-a-linfo-les-bulles-de-filtres-ne-sont-pas-le-plus-gros-probleme/), Mais où va le web ?
 
-`2017 05`
-[Demandez le programme ! — Ethics by design : Tout savoir sur la journée du 12 mai](https://medium.com/designers-éthiques/demandez-le-programme-9aff3c196b0d), Designers Éthique's Medium
-
-`2017 04`
+`2017`
 [Élection présidentielle — À quoi ressemblent les réseaux Twitter des candidat·e·s ?](https://medium.com/bear-time/élection-présidentielle-à-quoi-ressemblent-les-réseaux-twitter-des-candidat-e-s-40aa23d553b9), Personal Medium
 
-`2017 04`
-[Voici mon réseau Facebook](https://medium.com/@jeremiepoiroux/voici-mon-r%C3%A9seau-facebook-f5ae9d9a3b11), Personal Medium
-
-`2017 04`
-[Mon réseau Twitter décortiqué](https://medium.com/@jeremiepoiroux/mon-r%C3%A9seau-twitter-d%C3%A9cortiqu%C3%A9-4a99c2194cde), Personal Medium
-
-`2017 04`
-[Partir à la découverte de ses réseaux — Configuration](https://medium.com/@jeremiepoiroux/partir-%C3%A0-la-d%C3%A9couverte-de-ses-r%C3%A9seaux-configuration-6cc638e4e1be), Personal Medium
-
-`2017 04`
+`2017`
 [FILTER BUBBLES EVERYWHEEERE](https://medium.com/bear-time/filter-bubbles-everywheeere-59ddcab36c), Personal Medium
 
-`2017 04`
+`2017`
 [Théorie des graphes — concepts de base](https://medium.com/bear-time/th%C3%A9orie-des-graphes-concepts-de-base-cc7aef4c39c3), Personal Medium
 
-`2017 03`
+`2017`
 [A brief summary of the political situation in France](https://medium.com/@jeremiepoiroux/a-brief-summary-of-the-political-situation-in-france-9864a4e87c56#.8wk0lkbxp), Personal Medium
 
-`2017 03`
-[Ethics by Design, l’événement !](https://medium.com/designers-%C3%A9thiques/ethics-by-design-l%C3%A9v%C3%A9nement-11c4a5be42f7#.wteofim03), Designers Éthiques's Medium
-
-`2017 02`
+`2017`
 [Algorithms ethnography](https://medium.com/bear-time/algorithms-ethnography-8e97666b94b4#.f4jezay80), Personal Medium
 
-`2017 02`
+`2017`
 [Filter Bubble Representation](https://medium.com/bear-time/filter-bubble-representation-bbce74e7e8b4#.2rspq9mph), Personal Medium
 
-`2016 01`
-[Les humanités numériques : une revendication syndicale - an article about the digital humanities network and the social demands](https://archinfo41.hypotheses.org/726?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B4wEbEQ2LRP6lDqHeCYwEZg%3D%3D), Master of information architecture
-
-`2016 01`
-[Que faire avec une base de données sur l’immobilier à Lyon ? - an article about a research methods on a real estate database in Lyon](https://archinfo41.hypotheses.org/720?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B4wEbEQ2LRP6lDqHeCYwEZg%3D%3D), Master of information architecture
-
-`2015 12`
-[Données personnelles de santé : vous avez dit partage ? - an article about the medical big data](https://archinfo01.hypotheses.org/1734?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B4wEbEQ2LRP6lDqHeCYwEZg%3D%3D), Master of information architecture
-
-`2015 12`
+`2015`
 [Robert Glushko s’invite en 117 - an article about the organizing of our classroom](https://archinfo01.hypotheses.org/1802?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B4wEbEQ2LRP6lDqHeCYwEZg%3D%3D), Master of information architecture
+
+`2012 - 2016`
+[Mon trou dans l'Internet - personal blog](http://blog.jeremiepoiroux.com)
 
 ### Journalism
 
-`2017 01`
+`2017`
 [À Roybon, l’autoritarisme des élus est héréditaire](http://lezephyrmag.com/libre/limpromptu/a-roybon-lautoritarisme-des-elus-est-hereditaire/), Le Zéphyr
 
-`2017 01`
+`2017`
 [Les élus suppriment massivement les aides aux opposants au Center Parcs](https://www.streetpress.com/sujet/1484563322-elus-suppriment-massivement-aides-aux-opposants-center-parcs), Street Press
 
-`2014 10`
-[Interview of Jacques Gonnet, first director and founder of the Centre de liaison de l'enseignement et des médias d'information (CLEMI)](http://issuu.com/asso_jetsdencre/docs/livre_blanc_maquette_web/1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B4wEbEQ2LRP6lDqHeCYwEZg%3D%3D), Jets d'encre
-
-`2014 09`
-[Rising Star, la pseudo-interactivité à son paroxysme](http://www.inaglobal.fr/television/article/rising-star-la-pseudo-interactivite-son-paroxysme-7863), Ina Global
-
-`2014 09`
-[Comment la PQR se débrouille-t-elle sur le web ?](http://www.inaglobal.fr/presse/article/comment-la-pqr-se-debrouille-t-elle-sur-le-web-7873), Ina Global
-
-`2014 08`
-[Infographie - La PQR en France et en Allemagne](http://www.inaglobal.fr/presse/article-statistique/infographie-la-pqr-en-france-et-en-allemagne-7790), Ina Global
-
-`2014 08`
-[Quiz - Connaissez-vous vraiment Netflix ?](http://www.inaglobal.fr/television/article/quiz-connaissez-vous-vraiment-netflix-7777), Ina Global
-
-`2014 07`
-[L’apprenti taz a-t-il dépassé le maître Libération ?](http://www.inaglobal.fr/presse/article/l-apprenti-taz-t-il-depasse-le-maitre-liberation-7716), Ina Global
-
-`2014 07`
-[L’innovation passe-t-elle par le sport ?](http://www.inaglobal.fr/television/article/l-innovation-passe-t-elle-par-le-sport-7700), Ina Global
-
-`2014 07`
-[L’Équipe peut-il encore innover dans l’information sportive ?](http://www.inaglobal.fr/presse/article/l-equipe-peut-il-encore-innover-dans-l-information-sportive-7685), Ina Global
-
-`2014 06`
-[Diversification, investissement, monétisation : les défis de la PQR](http://www.inaglobal.fr/presse/article/diversification-investissement-monetisation-les-defis-de-la-pqr-7661), Ina Global
-
-`2014 06`
-[Le Parisien fait le pari de l’information locale payante sur mobile](http://www.inaglobal.fr/presse/article/le-parisien-fait-le-pari-de-l-information-locale-payante-sur-mobile-7658), Ina Global
-
-`2014 06`
-[Quelle stratégie plurimédia pour Ouest France ?](http://www.inaglobal.fr/presse/article/quelle-strategie-plurimedia-pour-ouest-france-7657), Ina Global
-
-`2014 06`
+`2014`
 [Normandie - Quand le tourisme transforme la commémoration](https://medium.com/@jeremiepoiroux/normandie-e16eaf622557), Bachelor project
 
-`2014 06`
-[Mondial : TF1 mise sur le second écran](http://www.inaglobal.fr/television/article/mondial-tf1-mise-sur-le-second-ecran-7634), Ina Global
-
-`2014 06`
-[Concentration, innovation, pluralisme : les défis de la PQR](http://www.inaglobal.fr/presse/article/concentration-innovation-pluralisme-les-defis-de-la-pqr-7616), Ina Global
-
-`2014 06`
-[« La France est à la pointe du second écran »](http://www.inaglobal.fr/television/article/la-france-est-la-pointe-du-second-ecran-7639), Ina Global
-
-`2014 05`
-[Patrick Eveno : « La situation au Monde n’a rien d’extraordinaire »](http://www.inaglobal.fr/presse/article/patrick-eveno-la-situation-au-monde-n-rien-d-extraordinaire-7592), Ina Global
-
-`2014 05`
-[Le flux, une variable d'ajustement à 1,5 milliard d'euros ?](http://www.inaglobal.fr/television/article/le-flux-une-variable-dajustement-15-milliard-deuros-7575), Ina Global
+`2014`
+[All the articles written at Ina Global about media and creative industries](http://www.inaglobal.fr/utilisateur/jeremie-poiroux)
 
 ## In the media
 
