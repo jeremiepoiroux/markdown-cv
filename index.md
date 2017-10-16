@@ -31,39 +31,48 @@ Co-design, participatory design, ethics by design, social design, design for sus
 
 ## Main experiences & projects
 
-`2017 02 - current`
-__[Marc Bloch Center](https://cmb.hu-berlin.de/)__, Berlin, Germany
-
-- Research internship at [Algodiv](http://algodiv.huma-num.fr/) to study the design workflow of recommender systems
-
-`2017 02 - current`
-__[Marc Bloch Center](https://cmb.hu-berlin.de/)__, Berlin, Germany
-
-- Master thesis at [Algodiv](http://algodiv.huma-num.fr/) to visualize information bubbles
-
 `2016 10 - current`
-__[Designers Ethiques](http://twitter.com/designethique)__, Association 
-
-- Co-president
-- Co-organizer of the [Ethics by design](http://ethicsbydesign.fr) event, the first conference in France about user-respectful and sustainable design which took place in May 2017
-
-`2016 05 - current`
-__[Kaïa Editions](https://kaia-lescarnets.fr)__, Association about printing online journalistic articles
-
-- Co-president
-
-`2015 11 - current`
-__[UX For News](http://uxfornews.com/)__, Slack community promoting User Experience Design in journalism
+__[Designers Ethiques](https://designersethiques.org)__, Association promoting ethics in/by design 
 
 - Co-founder
+- Coordinator of [Ethics by design 18 in Paris](https://2018.ethicsbydesign.fr), the conference in France about user-respectful and sustainable design
+- Co-organizer of the [Ethics by design afterwork in Nantes](https://www.helloasso.com/associations/les-designers-ethiques/evenements/l-afterwork-nantais/)
+- Co-organizer of [Ethics by design 17 in Lyon](https://2017.ethicsbydesign.fr), the first conference in France about user-respectful and sustainable design 
+
+`2016 05 - current`
+__[Éditions Kaïa](https://kaia-lescarnets.fr)__, we print online journalistic longform articles
+
+- Co-founder
+
+`2017 02 - 2017 07`
+__[Marc Bloch Center](https://cmb.hu-berlin.de/)__, Berlin, Germany
+
+- Research internship at [Algodiv](http://algodiv.huma-num.fr/) to study recommender systems from a sociological point of view
+
+`2017 02 - 2017 08`
+__[Marc Bloch Center](https://cmb.hu-berlin.de/)__, Berlin, Germany
+
+- Master thesis at [Algodiv](http://algodiv.huma-num.fr/) to visualize containement on Twitter
 
 `2015 09 - 2016 11`
 __[AInsitu](http://association-ainsitu.fr/)__, School business association 
 
 - Treasurer
 - Project coordinator
+- Event coordinator
+
+`2014 04 - 2014 09`
+__[Ina global](https://www.newsresources.org/)__, The Review of Creative Industries and Media edited by the National audiovisual institute (Ina)
+
+- Intern
+- Online and video journalist
 
 ## Secondary experiences & projects
+
+`2015 11 - current`
+__[UX For News](http://uxfornews.com/)__, Slack community promoting User Experience Design in journalism
+
+- Co-founder
 
 `2016 05 - 2017 03`
 __[ENSlip](https://medium.com/bear-time/how-we-built-a-disruptive-experiment-in-the-context-of-clothes-selling-with-a-chatbot-60e96f1e68c7#.vu0856lfb)__, A chatbot to sell high-school underwears
@@ -71,9 +80,38 @@ __[ENSlip](https://medium.com/bear-time/how-we-built-a-disruptive-experiment-in-
 - Designer
 
 `2015 09 - 2016 06`
-__[Newsresources](https://www.newsresources.org/)__, Association promoting online journalism 
+__[Newsresources](https://www.newsresources.org/)__, a plateform for french journalists with tools, resources, content and a big community
 
 - Project member
+
+`2015 07`
+__Journalism report in Roybon, France__ about the construction of a Center Parcs (Pierre & Vacances)
+
+- [À Roybon, l’autoritarisme des élus est héréditaire](http://lezephyrmag.com/libre/limpromptu/a-roybon-lautoritarisme-des-elus-est-hereditaire/), Le Zéphyr
+
+- [Les élus suppriment massivement les aides aux opposants au Center Parcs](https://www.streetpress.com/sujet/1484563322-elus-suppriment-massivement-aides-aux-opposants-center-parcs), Street Press
+
+`2015 02`
+__[Journalism report in Beirut](http://blog.jeremiepoiroux.com/syriens-au-liban-nous-navons-plus-didentite/)__ about the western stereotypes about palestinian refugees camps in Beirut and a story of my trip
+
+`2014 10`
+__[Journalism multimedia report in Tunisia](https://medium.com/@jeremiepoiroux/des-paroles-dans-le-vent-129c635e8e92)__ about agriculture before parliamentary elections
+
+`2014 10 - 2015 06`
+__Ville de Noisy-le-Grand__
+
+- Educational group leader 
+
+`2014 01 - 2015 01`
+__Éducation nationale__, Clémi de Créteil 
+
+- Trainer in video journalism
+
+`2013 01 - 2013 11`
+__New website and promotional video for [Les Z'arpètes](http://www.leszarpetes.asso.fr)__, cultural organization providing dance, acting and arts classes
+
+- Wordpress developer
+- Communication officer
 
 `2012 12`
 __Fils de...__, short-movie directed by Jean-Claude Montheil
