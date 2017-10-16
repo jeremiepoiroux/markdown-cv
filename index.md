@@ -75,6 +75,36 @@ __[Newsresources](https://www.newsresources.org/)__, Association promoting onlin
 
 - Project member
 
+`2012 12`
+__Fils de...__, short-movie directed by Jean-Claude Montheil
+
+- Production manager
+- Final project of my technical degree in TV management 
+
+`2012 12`
+__[Tandem Productions](http://www.lexpress.fr)__, french-german TV news production company
+
+- Intern
+- Production assistant
+
+`2012 07`
+__[lexpress.fr](http://www.lexpress.fr)__, french newspaper
+
+- Intern at the online version
+- [Video and political journalist](http://www.lexpress.fr/infos/pers/jeremie-poiroux.html?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_treasury%3BDD9pqMOUTl2xPBNxqv7NrA%3D%3D)
+
+`2012 06`
+__Festiv'été music festival__, Festiv'all
+
+- Intern
+- Technician in charge of the [video](https://vimeo.com/channels/346269)
+
+`2011 09 - 2012 06`
+__2012 est à vous, les jeunes bloguent la présidentielle__, a youths blog about the french political election by [l'Étudiant](http://www.letudiant.fr) and [Jets d'encre](http://www.jetsdencre.asso.fr)
+
+- Contributor
+- Second place of the "best article" contest
+
 `2010 - 2011`
 __Splyn__, Rock&Pop music group
 
@@ -245,6 +275,9 @@ Master thesis - Visualiser le confinement sur Twitter ("Vizualisation of the con
 
 `2014`
 [All the articles written at Ina Global about media and creative industries](http://www.inaglobal.fr/utilisateur/jeremie-poiroux)
+
+`2012`
+[All the articles written at lexpress.fr, a french newspaper](http://www.lexpress.fr/infos/pers/jeremie-poiroux.html?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_treasury%3BDD9pqMOUTl2xPBNxqv7NrA%3D%3D)
 
 ## In the media
 
