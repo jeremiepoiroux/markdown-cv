@@ -97,7 +97,6 @@ __[Newsresources](https://www.newsresources.org/)__, a plateform for french jour
 __Journalism report in Roybon, France__ about the construction of a Center Parcs (Pierre & Vacances)
 
 - [À Roybon, l’autoritarisme des élus est héréditaire](http://lezephyrmag.com/libre/limpromptu/a-roybon-lautoritarisme-des-elus-est-hereditaire/), Le Zéphyr
-
 - [Les élus suppriment massivement les aides aux opposants au Center Parcs](https://www.streetpress.com/sujet/1484563322-elus-suppriment-massivement-aides-aux-opposants-center-parcs), Street Press
 
 `2015 02`
@@ -121,7 +120,6 @@ __Ina Expert__, graduation project of the technical degree in TV management
 
 - Coordinator
 - Director of one video report
-
 - Educational group leader 
 
 `2013 01 - 2013 11`
