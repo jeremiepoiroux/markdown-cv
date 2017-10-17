@@ -45,17 +45,29 @@ __[Éditions Kaïa](https://kaia-lescarnets.fr)__, we print online journalistic 
 - Co-founder
 
 `2017 02 - 2017 08`
-__[Marc Bloch Center](https://cmb.hu-berlin.de/)__, Berlin, Germany
+__[Marc Bloch Center](https://cmb.hu-berlin.de/)__, research center in social sciences in Berlin, Germany
 
-- Master thesis at [Algodiv](http://algodiv.huma-num.fr/) to visualize containement on Twitter
+- Master thesis at [Algodiv](http://algodiv.huma-num.fr/) to visualize information bubbles and containement on Twitter
 - Research internship at [Algodiv](http://algodiv.huma-num.fr/) to study recommender systems from a sociological point of view
 
 `2015 09 - 2016 11`
-__[AInsitu](http://association-ainsitu.fr/)__, School business association 
+__AInsitu__, School business association 
 
 - Treasurer
-- Project coordinator
-- Event coordinator
+- Coordinator of the event "Design et numérique : et l'éthique, bordel !"
+- Contributor and coordinator of a user-testing project
+- Contributor and coordinator of a Quality Management System development 
+- Contributor and coordinator of a community management strategy
+
+`2016 01 - 2016 04`
+__[100détours](https://marvelapp.com/175c1d8/screen/11739231?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bm8hoTIcYSiGHbjoFddVYsA%3D%3D)__, an experimental app for a bike rental in Lyon (France)
+
+- Designer
+
+`2016 01 - 2016 04`
+__[Autour de moi](https://archinfo05.hypotheses.org/280?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bm8hoTIcYSiGHbjoFddVYsA%3D%3D)__, a plateform about cultural outings in the area of Clermont-Ferrand (France) with the Centre France newspaper group
+
+- Designer
 
 `2014 04 - 2014 09`
 __[Ina global](https://www.newsresources.org/)__, The Review of Creative Industries and Media edited by the National audiovisual institute (Ina)
@@ -79,6 +91,7 @@ __[ENSlip](https://medium.com/bear-time/how-we-built-a-disruptive-experiment-in-
 __[Newsresources](https://www.newsresources.org/)__, a plateform for french journalists with tools, resources, content and a big community
 
 - Project member
+- Co-founder of [#jTools](https://www.newsresources.org/outils/)
 
 `2015 07`
 __Journalism report in Roybon, France__ about the construction of a Center Parcs (Pierre & Vacances)
@@ -90,6 +103,11 @@ __Journalism report in Roybon, France__ about the construction of a Center Parcs
 `2015 02`
 __[Journalism report in Beirut](http://blog.jeremiepoiroux.com/syriens-au-liban-nous-navons-plus-didentite/)__ about the western stereotypes about palestinian refugees camps in Beirut and a story of my trip
 
+`2014 01 - 2015 01`
+__Éducation nationale__, Clémi de Créteil 
+
+- Trainer in video journalism
+
 `2014 10`
 __[Journalism multimedia report in Tunisia](https://medium.com/@jeremiepoiroux/des-paroles-dans-le-vent-129c635e8e92)__ about agriculture before parliamentary elections
 
@@ -98,10 +116,13 @@ __Ville de Noisy-le-Grand__
 
 - Educational group leader 
 
-`2014 01 - 2015 01`
-__Éducation nationale__, Clémi de Créteil 
+`2014 10 - 2015 06`
+__Ina Expert__, graduation project of the technical degree in TV management 
 
-- Trainer in video journalism
+- Coordinator
+- Director of one video report
+
+- Educational group leader 
 
 `2013 01 - 2013 11`
 __New website and promotional video for [Les Z'arpètes](http://www.leszarpetes.asso.fr)__, cultural organization providing dance, acting and arts classes
@@ -113,7 +134,7 @@ __New website and promotional video for [Les Z'arpètes](http://www.leszarpetes.
 __Fils de...__, short-movie directed by Jean-Claude Montheil
 
 - Production manager
-- Final project of my technical degree in TV management 
+- Graduation project of my technical degree in TV management 
 
 `2012 12`
 __[Tandem Productions](http://www.lexpress.fr)__, french-german TV news production company
@@ -159,20 +180,15 @@ __Le Joub'nal__, High school newspaper
 
 ## Education
 
-`2017 02 - 2017 08`
-__[Marc Bloch Center](https://cmb.hu-berlin.de/)__, research center in social sciences in Berlin, Germany
+`2015 - 2017`
+__[École normale supérieure of Lyon](http://www.ens-lyon.fr/en/english-ens-de-lyon-269761.kjsp)__, France
 
-- Master thesis at [Algodiv](http://algodiv.huma-num.fr/) to study information bubbles and containement on Twitter
+- [Master in information architecture](http://archinfo.universite-lyon.fr/) and design
 
 `2016 08 - 2016 12`
 __University of Oslo__, Norway
 
 - Exchange in [design](https://www.uio.no/studier/emner/matnat/ifi/INF5722/index-eng.html) and [pedagogy](https://www.uio.no/studier/emner/uv/iped/PED4540/index-eng.html) studies
-
-`2015 - 2017`
-__[École normale supérieure of Lyon](http://www.ens-lyon.fr/en/english-ens-de-lyon-269761.kjsp)__, France
-
-- [Master in information architecture](http://archinfo.universite-lyon.fr/) and design
 
 `2014 - 2015`
 __Paris VIII University__, France
@@ -312,6 +328,23 @@ Master thesis - Visualiser le confinement sur Twitter ("Vizualisation of the con
 
 `2012`
 [All the articles written at lexpress.fr, a french newspaper](http://www.lexpress.fr/infos/pers/jeremie-poiroux.html?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_treasury%3BDD9pqMOUTl2xPBNxqv7NrA%3D%3D)
+
+## Talks
+
+`2017 09`
+__La rentrée__ event about design and creativity
+
+- Talk about ethical design
+
+`2015 11`
+__Apéros des designers lyonnais__
+
+- Talk about information architecture
+
+`2015 09`
+__Paper.con__ conference about digital journalism in Toulon
+
+- Talk about mobile journalism broadcasting
 
 ## In the media
 
