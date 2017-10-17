@@ -360,6 +360,6 @@ __Paper.con__ conference about digital journalism in Toulon
 
 ---
 
-[Last update: 2017 10 15](https://github.com/jeremiepoiroux/website/commits/gh-pages/index.md)
+[Last update: 2017 10 17](https://github.com/jeremiepoiroux/website/commits/gh-pages/index.md)
 
 
