@@ -58,6 +58,7 @@ __AInsitu__, School business association
 - Contributor and coordinator of a user-testing project
 - Contributor and coordinator of a Quality Management System development 
 - Contributor and coordinator of a community management strategy
+- Contributor to an information architecture project with the creation of personae
 
 `2016 01 - 2016 04`
 __[100détours](https://marvelapp.com/175c1d8/screen/11739231?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bm8hoTIcYSiGHbjoFddVYsA%3D%3D)__, an experimental app for a bike rental in Lyon (France)
@@ -174,7 +175,7 @@ __Le Joub'nal__, High school newspaper
 
 - Co-founder
 - Editor
-- Edito-in-chief
+- Editor-in-chief
 
 ## Education
 
@@ -329,6 +330,11 @@ Master thesis - Visualiser le confinement sur Twitter ("Vizualisation of the con
 
 ## Talks
 
+`2017 10`
+__[Sommes-nous prisonniers de bulles informationnelles ?](https://www.bm-lyon.fr/spip.php?page=video&id_video=974)__ Bibliothèque Municipale de Lyon
+
+- Discussion with a journalist about fake news and "filter bubbles"
+
 `2017 09`
 __La rentrée__ event about design and creativity
 
@@ -347,9 +353,6 @@ __Paper.con__ conference about digital journalism in Toulon
 ## In the media
 
 `2017`
- [Sommes-nous prisonniers de bulles informationnelles ?](https://www.bm-lyon.fr/spip.php?page=video&id_video=974), Bibliothèque Municipale de Lyon
-
-`2017`
  [« Sur Internet, comme dans la vraie vie, nous sommes enfermés dans notre bulle »](http://www.rue89lyon.fr/2017/10/09/sur-internet-comme-dans-la-vraie-vie-nous-sommes-enfermes-dans-notre-bulle/), Rue89 Lyon
 
 `2017`
@@ -360,6 +363,6 @@ __Paper.con__ conference about digital journalism in Toulon
 
 ---
 
-[Last update: 2017 10 17](https://github.com/jeremiepoiroux/website/commits/gh-pages/index.md)
+[Last update: 2017 10 27](https://github.com/jeremiepoiroux/website/commits/gh-pages/index.md)
 
 
