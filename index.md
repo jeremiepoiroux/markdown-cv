@@ -123,6 +123,11 @@ __Ina Expert__, graduation project of the technical degree in TV management
 - Director of one video report
 - Educational group leader 
 
+`2013 08 - 2013 09`
+__Amorino Les Tuileries, Paris__, Artisanal Gelato Maker
+
+- Employee
+
 `2013 01 - 2013 11`
 __New website and promotional video for [Les Z'arpètes](http://www.leszarpetes.asso.fr)__, cultural organization providing dance, acting and arts classes
 
@@ -159,6 +164,11 @@ __2012 est à vous, les jeunes bloguent la présidentielle__, a youths blog abou
 - Contributor
 - Second place of the "best article" contest
 
+`2011 07 - 2011 08`
+__McDonald's__, Garmisch-Partenkirchen (Germany)
+
+- Employee
+
 `2010 - 2011`
 __Splyn__, Rock&Pop music group
 
@@ -169,6 +179,11 @@ __[Crime dans l'Orient-Express](http://www.leszarpetes.asso.fr/wp-content/upload
 
 - Director
 - Sound and video technician
+
+`2010 07 - 2010 08`
+__McDonald's__, Garmisch-Partenkirchen (Germany)
+
+- Employee
 
 `2009 - 2011`
 __Le Joub'nal__, High school newspaper
@@ -363,6 +378,6 @@ __Paper.con__ conference about digital journalism in Toulon
 
 ---
 
-[Last update: 2017 10 27](https://github.com/jeremiepoiroux/website/commits/gh-pages/index.md)
+[Last update: 2017 10 28](https://github.com/jeremiepoiroux/website/commits/gh-pages/index.md)
 
 
