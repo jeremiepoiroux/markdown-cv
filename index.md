@@ -51,7 +51,7 @@ __[Marc Bloch Center](https://cmb.hu-berlin.de/)__, research center in social sc
 - Research internship at [Algodiv](http://algodiv.huma-num.fr/) to study recommender systems from a sociological point of view
 
 `2015 09 - 2016 11`
-__AInsitu__, School business association 
+__[AInsitu](http://www.ens-lyon.fr/campus/associations/ainsitu)__, School business association 
 
 - Treasurer
 - Coordinator of the event "Design et numérique : et l'éthique, bordel !"
@@ -71,7 +71,7 @@ __[Autour de moi](https://archinfo05.hypotheses.org/280?lipi=urn%3Ali%3Apage%3Ad
 - Designer
 
 `2014 04 - 2014 09`
-__[Ina global](https://www.newsresources.org/)__, The Review of Creative Industries and Media edited by the National audiovisual institute (Ina)
+__[Ina global](http://www.inaglobal.fr/utilisateur/jeremie-poiroux)__, The Review of Creative Industries and Media edited by the National audiovisual institute (Ina)
 
 - Intern
 - Online and video journalist
