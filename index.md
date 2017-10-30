@@ -9,7 +9,6 @@ title: Jérémie Poiroux
 | <a href="https://www.linkedin.com/in/jeremiepoiroux/">LinkedIn</a>
 | <a href="https://twitter.com/jeremprx">Twitter</a>
 | <a href="https://medium.com/@jeremiepoiroux">Medium</a>
-| <a href="https://github.com/jeremiepoiroux">Github</a>
 </div>
 
 ## Currently
@@ -268,6 +267,7 @@ __[Les Z'arpètes](http://www.leszarpetes.asso.fr)__, cultural organization prov
 ### In video 
 
 - Adobe Premiere Pro
+- Avid Media Composer
 - Sony PMW-300 video camera
 
 ## Languages
@@ -378,6 +378,6 @@ __Paper.con__ conference about digital journalism in Toulon
 
 ---
 
-[Last update: 2017 10 28](https://github.com/jeremiepoiroux/website/commits/gh-pages/index.md)
+[Last update: 2017 10 30](https://github.com/jeremiepoiroux/website/commits/gh-pages/index.md)
 
 
