@@ -107,6 +107,11 @@ __Éducation nationale__, Clémi de Créteil
 
 - Trainer in video journalism
 
+`2014 11 15 - 2014 11 15`
+__Fleur de Mets, Paris__
+
+- Barman
+
 `2014 10`
 __[Journalism multimedia report in Tunisia](https://medium.com/@jeremiepoiroux/des-paroles-dans-le-vent-129c635e8e92)__ about agriculture before parliamentary elections
 
