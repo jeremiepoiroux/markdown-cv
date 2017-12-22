@@ -286,9 +286,9 @@ __[Les Z'arpètes](http://www.leszarpetes.asso.fr)__, cultural organization prov
 `2016`
 92/120, TOEFL iBT
 
-## Publications
+## Writings
 
-### Research
+### Essays
 
 `2017`
 Master thesis - Visualiser le confinement sur Twitter ("Vizualisation of the containement on Twitter"), École normale supérieure de Lyon, Algodiv and the Marc Bloch Center
