@@ -356,7 +356,7 @@ Master thesis - Visualiser le confinement sur Twitter ("Vizualisation of the con
 ## Talks
 
 `2018 01`
-__[Economie du document](http://streaming.enssib.fr)__ ENSIB and ENS de Lyon course
+__[Economie du document](http://streaming.enssib.fr)__ ENSSIB and ENS de Lyon course
 
 - A seminar about ethics and/by/for design
 
