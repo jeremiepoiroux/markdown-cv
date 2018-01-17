@@ -14,7 +14,7 @@ title: Jérémie Poiroux
 ## Currently
 
 I’m a freelance designer and a junior-researcher in digital sociology. 
-I’m working on research projects about algorithms & information bubbles. I'm also the co-founder of [Designers Éthiques](https://designersethiques.org) and [Kaïa](https://kaia-lescarnets.fr).
+I’m working on a [research projects - Algodiv -](http://algodiv.huma-num.fr/) about recommender systems. I'm also the co-president of [Designers Éthiques](https://designersethiques.org) and [Kaïa](https://kaia-lescarnets.fr).
 
 ### Specialized in
 
@@ -29,6 +29,11 @@ Complex networks, information bubbles, recommender systems, personalization, res
 Co-design, participatory design, ethics by design, social design, design for sustainability, design sprint, design for journalism
 
 ## Main experiences & projects
+
+`2017 12 - current`
+__[Marc Bloch Center](https://cmb.hu-berlin.de/)__, research center in social sciences in Berlin, Germany
+
+- Research assistant within the [Algodiv project](http://algodiv.huma-num.fr/) to do a sociological study about recommender systems
 
 `2016 10 - current`
 __[Designers Ethiques](https://designersethiques.org)__, Association promoting ethics in/by design 
@@ -350,6 +355,16 @@ Master thesis - Visualiser le confinement sur Twitter ("Vizualisation of the con
 
 ## Talks
 
+`2018 01`
+__[Economie du document](http://streaming.enssib.fr)__ ENSIB and ENS de Lyon course
+
+- A seminar about ethics and/by/for design
+
+`2017 12`
+__[Orange Consulting](https://www.orange-business.com/fr/solutions/orange-consulting)__ 
+
+- A "TEDx talk" about ethics and design
+
 `2017 10`
 __[Sommes-nous prisonniers de bulles informationnelles ?](https://www.bm-lyon.fr/spip.php?page=video&id_video=974)__ Bibliothèque Municipale de Lyon
 
@@ -383,6 +398,6 @@ __Paper.con__ conference about digital journalism in Toulon
 
 ---
 
-[Last update: 2017 10 30](https://github.com/jeremiepoiroux/website/commits/gh-pages/index.md)
+[Last update: 2018 01 17](https://github.com/jeremiepoiroux/website/commits/gh-pages/index.md)
 
 
