@@ -30,6 +30,16 @@ Co-design, participatory design, ethics by design, social design, design for sus
 
 ## Main experiences & projects
 
+`2018 02 - current`
+__[ISCPA Lyon Journalism school](http://www.iscpa-ecoles.com/ecole-de-journalisme/formation-journalisme-cursus-et-programmes/cycle-mastere-lyon/)__, Master in investigative journalism
+
+- Teacher of the course "Long-form writing"
+
+`2018 01 - 2018 03`
+__[Télécom Saint-Etienne School](https://iram.telecom-st-etienne.fr/wp-content/uploads/sites/4/2016/04/iram-english.pdf)__, Master degree in design of communication
+
+- Teacher of the course "Project design"
+
 `2017 12 - current`
 __[Marc Bloch Center](https://cmb.hu-berlin.de/)__, research center in social sciences in Berlin, Germany
 
@@ -353,7 +363,12 @@ Master thesis - Visualiser le confinement sur Twitter ("Vizualisation of the con
 `2012`
 [All the articles written at lexpress.fr, a french newspaper](http://www.lexpress.fr/infos/pers/jeremie-poiroux.html?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_treasury%3BDD9pqMOUTl2xPBNxqv7NrA%3D%3D)
 
-## Talks
+## Talks and workshops
+
+`2018 03`
+__[Le Grand Barouf Numérique](http://streaming.enssib.fr)__ An event by Ouishare in Lille (France)
+
+- A design-fiction workshop about captology and the design of attention
 
 `2018 01`
 __[Economie du document](http://streaming.enssib.fr)__ ENSSIB and ENS de Lyon course
@@ -398,6 +413,6 @@ __Paper.con__ conference about digital journalism in Toulon
 
 ---
 
-[Last update: 2018 01 17](https://github.com/jeremiepoiroux/website/commits/gh-pages/index.md)
+[Last update: 2018 04 07](https://github.com/jeremiepoiroux/website/commits/gh-pages/index.md)
 
 
