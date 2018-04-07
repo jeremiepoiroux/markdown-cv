@@ -260,6 +260,12 @@ __[Jets d'encre](http://www.jetsdencre.asso.fr)__, organization for the defense 
 
 - Active member
 
+`2012 10 - 2013 02`
+__[Les Z'arpètes](http://www.leszarpetes.asso.fr)__, cultural organization providing dance, acting and arts classes
+
+- Creation of the new website
+- Production of a promotional teaser
+
 `2011 09 - 2012 08`
 __[Jets d'encre](http://www.jetsdencre.asso.fr)__, organization for the defense & promotion of youth press
 
