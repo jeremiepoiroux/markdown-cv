@@ -260,12 +260,6 @@ __[Jets d'encre](http://www.jetsdencre.asso.fr)__, organization for the defense 
 
 - Active member
 
-`2012 10 - 2013 02`
-__[Les Z'arpètes](http://www.leszarpetes.asso.fr)__, cultural organization providing dance, acting and arts classes
-
-- Creation of the new website
-- Production of a promotional teaser
-
 `2011 09 - 2012 08`
 __[Jets d'encre](http://www.jetsdencre.asso.fr)__, organization for the defense & promotion of youth press
 
@@ -323,7 +317,8 @@ Master thesis - Visualiser le confinement sur Twitter ("Vizualisation of the con
 ### Blogging (selection)
 
 `2017`
-[C’était “Ethics by Design” 2017 @ Lyon !](https://medium.com/designers-éthiques/cétait-ethics-by-design-2017-lyon-730dade2540f), Designers Éthique's Medium
+[C’était “Ethics by Design” 2017 @ Lyon !](https://medium.com/
+-éthiques/cétait-ethics-by-design-2017-lyon-730dade2540f), Designers Éthiques' Medium
 
 `2017`
 [Fake news et accès à l’info : les “bulles de filtres” ne sont pas le plus gros problème !](http://maisouvaleweb.fr/fake-news-et-acces-a-linfo-les-bulles-de-filtres-ne-sont-pas-le-plus-gros-probleme/), Mais où va le web ?
