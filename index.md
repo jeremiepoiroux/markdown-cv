@@ -135,7 +135,7 @@ __Ville de Noisy-le-Grand__
 
 - Educational group leader 
 
-`2014 10 - 2015 06`
+`2013 10 - 2014 04`
 __Ina Expert__, graduation project of the technical degree in TV management 
 
 - Coordinator
@@ -317,8 +317,7 @@ Master thesis - Visualiser le confinement sur Twitter ("Vizualisation of the con
 ### Blogging (selection)
 
 `2017`
-[C’était “Ethics by Design” 2017 @ Lyon !](https://medium.com/
--éthiques/cétait-ethics-by-design-2017-lyon-730dade2540f), Designers Éthiques' Medium
+[C’était “Ethics by Design” 2017 @ Lyon !](https://medium.com/designers-éthiques/cétait-ethics-by-design-2017-lyon-730dade2540f), Designers Éthiques' Medium
 
 `2017`
 [Fake news et accès à l’info : les “bulles de filtres” ne sont pas le plus gros problème !](http://maisouvaleweb.fr/fake-news-et-acces-a-linfo-les-bulles-de-filtres-ne-sont-pas-le-plus-gros-probleme/), Mais où va le web ?
@@ -414,6 +413,6 @@ __Paper.con__ conference about digital journalism in Toulon
 
 ---
 
-[Last update: 2018 04 07](https://github.com/jeremiepoiroux/website/commits/gh-pages/index.md)
+[Last update: 2018 04 02](https://github.com/jeremiepoiroux/website/commits/gh-pages/index.md)
 
 
