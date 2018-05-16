@@ -366,7 +366,7 @@ Master thesis - Visualiser le confinement sur Twitter ("Vizualisation of the con
 ## Talks and workshops
 
 `2018 04`
-__[Retro-design of attention](http://streaming.enssib.fr)__ ENSCI - Les Ateliers
+__[Retro-design of attention](http://www.internetactu.net/2017/10/18/pour-un-retro-design-de-lattention/)__ ENSCI - Les Ateliers
 
 - An intervention about ethics in design
 
