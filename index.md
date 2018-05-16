@@ -365,6 +365,11 @@ Master thesis - Visualiser le confinement sur Twitter ("Vizualisation of the con
 
 ## Talks and workshops
 
+`2018 04`
+__[Retro-design of attention](http://streaming.enssib.fr)__ ENSCI - Les Ateliers
+
+- An intervention about ethics in design
+
 `2018 03`
 __[Le Grand Barouf Numérique](http://streaming.enssib.fr)__ An event by Ouishare in Lille (France)
 
@@ -373,12 +378,12 @@ __[Le Grand Barouf Numérique](http://streaming.enssib.fr)__ An event by Ouishar
 `2018 01`
 __[Economie du document](http://streaming.enssib.fr)__ ENSSIB and ENS de Lyon course
 
-- A seminar about ethics and/by/for design
+- An intervention about ethics and/by/for design
 
 `2017 12`
 __[Orange Consulting](https://www.orange-business.com/fr/solutions/orange-consulting)__ 
 
-- A "TEDx talk" about ethics and design
+- A TEDx-like talk about ethics and design
 
 `2017 10`
 __[Sommes-nous prisonniers de bulles informationnelles ?](https://www.bm-lyon.fr/spip.php?page=video&id_video=974)__ Bibliothèque Municipale de Lyon
